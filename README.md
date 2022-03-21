@@ -11,7 +11,7 @@
 ## [Código QR:](https://expo.dev/@ndiesuper/gofinances)
 
 
-  <img align="center" alt="GoFinances" title="GoFinances" src="https://user-images.githubusercontent.com/40128030/159347850-cec49775-3059-42ab-a333-3332f93fb000.svg" width="128px" />
+  <img align="center" alt="GoFinances" title="GoFinances" src="https://user-images.githubusercontent.com/40128030/159347850-cec49775-3059-42ab-a333-3332f93fb000.svg" width="200px" />
 
 
 ## Tecnologias utilizadas
