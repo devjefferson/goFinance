@@ -29,7 +29,7 @@ Execute os comandos abaixo para rodar o projeto:
 
 ```bash
 # Entrar na pasta do projeto
-$ cd gofinances
+$ cd gofinance
 
 # Para baixar as dependências do projeto
 $ yarn
