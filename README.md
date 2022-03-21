@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="GoFinances" title="GoFinances" src=".github/assets/logo.svg" width="300px" />
+  <img alt="GoFinances" title="GoFinances" src="src/assets/logo.svg" width="300px" />
 </h1>
 
 # GoFinances - Aplicativo de finanças pessoais
@@ -10,7 +10,8 @@
 
 ## [Código QR:](https://expo.dev/@ndiesuper/gofinances)
 
-  <img align="center" alt="GoFinances" title="GoFinances" src=".github/assets/qrcode.png" width="128px" />
+
+  <img align="center" alt="GoFinances" title="GoFinances" src="https://user-images.githubusercontent.com/40128030/159347850-cec49775-3059-42ab-a333-3332f93fb000.svg" width="128px" />
 
 
 ## Tecnologias utilizadas
